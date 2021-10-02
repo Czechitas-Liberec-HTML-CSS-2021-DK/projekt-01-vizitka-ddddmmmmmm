@@ -1,0 +1,23 @@
+body { 
+    color: #282425;
+    backround-color:#e9bd96;
+    font-family: italic;
+    font-size: 20px;
+    line-height: 1,5;
+    margin:0;
+}
+
+h1 {
+    color:#282425;
+    font-style: italic;
+    font-size: 80px;
+    text-align: center;
+    margin:0;
+}
+
+.mojefoto {
+    width: 200px;
+    border-radius:50%;
+    float: left;
+    margin: 0 30px 30px 0;
+}
